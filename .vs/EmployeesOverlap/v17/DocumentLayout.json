@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4C6D51-2E8B-4F3F-9B50-0E8D2E8D6C01}|src\\EmployeesOverlap.Core\\EmployeesOverlap.Core.csproj|c:\\users\\user\\downloads\\jonida-kapllani-employees\\src\\employeesoverlap.core\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4C6D51-2E8B-4F3F-9B50-0E8D2E8D6C01}|src\\EmployeesOverlap.Core\\EmployeesOverlap.Core.csproj|solutionrelative:src\\employeesoverlap.core\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4C6D51-2E8B-4F3F-9B50-0E8D2E8D6C01}|src\\EmployeesOverlap.Core\\EmployeesOverlap.Core.csproj|c:\\users\\user\\downloads\\jonida-kapllani-employees\\src\\employeesoverlap.core\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4C6D51-2E8B-4F3F-9B50-0E8D2E8D6C01}|src\\EmployeesOverlap.Core\\EmployeesOverlap.Core.csproj|solutionrelative:src\\employeesoverlap.core\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B9D65-5ED6-4C8A-9D5E-7B0D2C5DF6D2}|src\\EmployeesOverlap.Wpf\\EmployeesOverlap.Wpf.csproj|c:\\users\\user\\downloads\\jonida-kapllani-employees\\src\\employeesoverlap.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E8B9D65-5ED6-4C8A-9D5E-7B0D2C5DF6D2}|src\\EmployeesOverlap.Wpf\\EmployeesOverlap.Wpf.csproj|solutionrelative:src\\employeesoverlap.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B9D65-5ED6-4C8A-9D5E-7B0D2C5DF6D2}|src\\EmployeesOverlap.Wpf\\EmployeesOverlap.Wpf.csproj|c:\\users\\user\\downloads\\jonida-kapllani-employees\\src\\employeesoverlap.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B9D65-5ED6-4C8A-9D5E-7B0D2C5DF6D2}|src\\EmployeesOverlap.Wpf\\EmployeesOverlap.Wpf.csproj|solutionrelative:src\\employeesoverlap.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "src\\EmployeesOverlap.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "src\\EmployeesOverlap.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:39:41.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\EmployeesOverlap.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "src\\EmployeesOverlap.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T14:39:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Core\\Models.cs",
+              "RelativeDocumentMoniker": "src\\EmployeesOverlap.Core\\Models.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Core\\Models.cs",
+              "RelativeToolTip": "src\\EmployeesOverlap.Core\\Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:37:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Core\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "src\\EmployeesOverlap.Core\\CsvLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Jonida-Kapllani-employees\\src\\EmployeesOverlap.Core\\CsvLoader.cs",
+              "RelativeToolTip": "src\\EmployeesOverlap.Core\\CsvLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:36:51.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

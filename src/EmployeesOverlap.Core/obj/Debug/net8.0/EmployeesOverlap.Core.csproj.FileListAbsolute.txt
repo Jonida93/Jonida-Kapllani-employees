@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\bin\Debug\net8.0\EmployeesOverlap.Core.deps.json
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\bin\Debug\net8.0\EmployeesOverlap.Core.dll
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\bin\Debug\net8.0\EmployeesOverlap.Core.pdb
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.dll
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\refint\EmployeesOverlap.Core.dll
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\EmployeesOverlap.Core.pdb
+C:\Users\User\Downloads\Jonida-Kapllani-employees\src\EmployeesOverlap.Core\obj\Debug\net8.0\ref\EmployeesOverlap.Core.dll

@@ -1,0 +1,39 @@
+<Window x:Class="EmployeesOverlap.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Employees - Longest Common Period" Height="520" Width="900">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <Button Width="140" Height="34" Click="PickFile_Click">Pick CSV file</Button>
+            <TextBlock Margin="12,0,0,0" VerticalAlignment="Center" Text="{Binding SelectedFile}"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" Padding="10" Background="#FFF3F3F3" CornerRadius="6" Margin="0,0,0,10">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold" Text="Best pair:"/>
+                <TextBlock Margin="8,0,0,0" Text="{Binding BestPairText}"/>
+                <TextBlock Margin="18,0,0,0" FontWeight="Bold" Text="Total days:"/>
+                <TextBlock Margin="8,0,0,0" Text="{Binding TotalDays}"/>
+            </StackPanel>
+        </Border>
+
+        <DataGrid Grid.Row="2"
+                  ItemsSource="{Binding Rows}"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Employee ID #1" Binding="{Binding Employee1}" Width="*"/>
+                <DataGridTextColumn Header="Employee ID #2" Binding="{Binding Employee2}" Width="*"/>
+                <DataGridTextColumn Header="Project ID" Binding="{Binding ProjectId}" Width="*"/>
+                <DataGridTextColumn Header="Days worked" Binding="{Binding DaysWorked}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

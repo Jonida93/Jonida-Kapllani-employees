@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeesOverlap.Wpf/1.0.0": {
+        "dependencies": {
+          "EmployeesOverlap.Core": "1.0.0"
+        },
+        "runtime": {
+          "EmployeesOverlap.Wpf.dll": {}
+        }
+      },
+      "EmployeesOverlap.Core/1.0.0": {
+        "runtime": {
+          "EmployeesOverlap.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeesOverlap.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeesOverlap.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
